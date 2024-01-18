@@ -20,12 +20,5 @@
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
   </style>
-</head>
-<body>
-  <div class="container">
-    <!-- Your GitHub Page content goes here -->
-    <h1>Hello, GitHub!</h1>
-    <p>This is my custom-styled GitHub Page.</p>
-  </div>
 </body>
 </html>
